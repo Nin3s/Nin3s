@@ -3,11 +3,11 @@
 ![spirited away](https://user-images.githubusercontent.com/50024330/195243688-bbe0ed55-62e8-418c-af68-e55f03cddf7a.gif)
 
 # Table of Contents
-1. [Languages, Frameworks and Tech I'm Familiar Or Have Worked With](https://github.com/Nin3s/Nin3s/edit/main/README.md#%EA%95%A5-languages-frameworks-and-tech-im-familiar-or-have-worked-with-%EA%95%A5)
-2. [What I'm Currently Learning](https://github.com/Nin3s/Nin3s/edit/main/README.md#%EA%95%A5-what-im-currently-learning-%EA%95%A5)
-3. [Current/Future Projects](https://github.com/Nin3s/Nin3s/edit/main/README.md#%EA%95%A5-currentfuture-projects-%EA%95%A5)
-4. [Bio](https://github.com/Nin3s/Nin3s/edit/main/README.md#%EA%95%A5-bio-%EA%95%A5)
-5. [How To Contact Me](https://github.com/Nin3s/Nin3s/edit/main/README.md#%EA%95%A5-how-to-contact-me-%EA%95%A5)
+1. [Languages, Frameworks and Tech I'm Familiar Or Have Worked With](https://github.com/Nin3s#%EA%95%A5-languages-frameworks-and-tech-im-familiar-or-have-worked-with-%EA%95%A5)
+2. [What I'm Currently Learning](https://github.com/Nin3s#%EA%95%A5-what-im-currently-learning-%EA%95%A5)
+3. [Current/Future Projects](https://github.com/Nin3s#%EA%95%A5-currentfuture-projects-%EA%95%A5)
+4. [Bio](https://github.com/Nin3s#%EA%95%A5-bio-%EA%95%A5)
+5. [How To Contact Me](https://github.com/Nin3s#%EA%95%A5-how-to-contact-me-%EA%95%A5)
 
 ## ꕥ Languages, Frameworks, and Tech I'm Familiar Or Have Worked With ꕥ
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -99,7 +99,7 @@ My all time favorite games are 'The World Ends With You' and 'Splatoon.' My favo
 Feel free to reach out on my LinkedIn :]  
 
 
-Thanks for stopping by! [Click here to go back to the top.](https://github.com/Nin3s/Nin3s/edit/main/README.md#table-of-contents)
+Thanks for stopping by! [Click here to go back to the top.](https://github.com/Nin3s#table-of-contents)
 <!---
 Nin3s/Nin3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
