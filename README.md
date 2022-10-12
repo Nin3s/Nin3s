@@ -101,8 +101,6 @@ Feel free to reach out on my LinkedIn :]
 
 Thanks for stopping by! [Click here to go back to the top.](https://github.com/Nin3s#table-of-contents)
 
-Randomly Generated Programming Meme:  
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!---
 Nin3s/Nin3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
