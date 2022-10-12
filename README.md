@@ -68,16 +68,16 @@ Some have not been updated in a while unfortunately but I hope that will change 
 My senior design capstone project.  
 I, along with 5 other individuals, will develop an application that will streamline planning. Name is a work in progress.
 
-### 2. Discord Bots
+### 2. Discord Bots ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 #### My General Purpose Bot
 This bot was started back in 2019 and will probably continuously be in development for now. I use it for myself to learn the framework and will continue adding new features to it to apply my knowledge.  
-Right now it is written in disord.py, but I have plans to later convert it to discord.js.  
+Right now it is written in discord.py, but I have plans to later convert it to discord.js.  
 I plan on starting development on another discord bot, but that probably won't be for a while. I'd like to finish some projects first before I add another one.
 
-### 3. Chat Application
+### 3. Chat Application ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 A pretty basic chat application made with React and MongoDB. This is so I can learn how sockets work, as well as see how message encryption is done.
 
-### 4. Who's That Pokemon? An AI Guessing Game
+### 4. Who's That Pokemon? An AI Guessing Game ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 This is something I've been excited to work on. A user draws a Pokemon on a given canvas and an AI will try and guess which one it is.  
 I've already created a classification model using python, but I'm currently figuring out how to create the canvas and connect the frontend to the API.
 
