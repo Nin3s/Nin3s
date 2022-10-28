@@ -92,11 +92,15 @@ At the time, the only CS related AP course available in high school was AP Compu
 I combined my love of Pokemon and created a very elaborate joke for my teacher as a good bye present. It's a pokemon battle except he is the opponent you must defeat (and there are no pokemon.) [If you'd like to play it, here it is.](https://studio.code.org/projects/applab/vVzvFUNDqaotgtdlGC2EFW7PoHJ6gFpZkMsGiW9g4oc) I dubbed it "Project S." Be warned that it's very buggy, has a lot of spaghetti code, and is probably cringy to go through. I'm still proud of it though, and I hope to create a sequel around the time I graduate from college 😈😈😈 he'll never see it coming (but I also thought it'd be a cool way to showcase the knowledge I learned. Also I find it very funny)  
 
 Non-academic wise, I enjoy drawing, reading, and playing video games. Sometimes I sew clothes, but I'm not that great at it.  
-
-My all time favorite games are 'The World Ends With You' and 'Splatoon.' My favorite movies are 'Spirited Away,' 'The Secret World of Arrietty,' and 'Kiki's Delivery Service' (though any Studio Ghibli movie is fair game), and my favorite book/series is 'A Thousand Splendid Suns' and the Percy Jackson series.  
+ 
+ Favorite...  
+⭐ Games: The World Ends With You, Splatoon  
+⭐ Movies: Spirited Away, The Secret World of Arrietty, Kiki's Delivery Service (though any Studio Ghibli movie is fair game)  
+⭐ Books: A Thousand Splendid Suns, Percy Jackson series, The Kane Chronicles  
+⭐ Data Structure: Stacks  
 
 ## ꕥ How To Contact me ꕥ
-Feel free to reach out on my LinkedIn :]  
+Feel free to reach out on my [LinkedIn](https://www.linkedin.com/in/jaralliesse-bastida/) :]  
 
 
 Thanks for stopping by! [Click here to go back to the top.](https://github.com/Nin3s#table-of-contents)
