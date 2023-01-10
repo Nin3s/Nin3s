@@ -78,11 +78,11 @@ I plan on starting development on another discord bot, but that probably won't b
 A pretty basic chat application made with React and MongoDB. This is so I can learn how sockets work, as well as see how message encryption is done.
 
 ### 4. Who's That Pokemon? An AI Guessing Game ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-This is something I've been excited to work on. A user draws a Pokemon on a given canvas and an AI will try and guess which one it is.  
+A user draws a Pokemon on a given canvas and an AI will try and guess which one it is.  
 I've already created a classification model using python, but I'm currently figuring out how to create the canvas and connect the frontend to the API.
 
 ## ꕥ Bio ꕥ
-Because I've grown up in a rough environment, I've been exposed to technology and internet since from a young age and have consistently stuck to it since then.   
+I've been exposed to technology and internet since from a young age and have consistently stuck to it since then.   
 
 From playing video games to building robots and learning hardware in high school, technology has been the only thing I've really been interested in, which eventually led to me pursuing a computer science degree at UCF. I eventually also decided to pursue a math minor to compliment it.  
 
