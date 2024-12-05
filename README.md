@@ -64,9 +64,8 @@
 I keep most of my current personal project repositories private during development but I'm more than happy to share info about them  
 Some have not been updated in a while unfortunately but I hope that will change soon as I gain more free time
 
-### 1. Collaborative Trip Planner
-My senior design capstone project.  
-I, along with 5 other individuals, will develop an application that will streamline planning. Name is a work in progress.
+### 1. Arduino Weather Machine
+A personal project that allows me to document wind speed and pressure during hurricanes.
 
 ### 2. Discord Bots ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 #### My General Purpose Bot
